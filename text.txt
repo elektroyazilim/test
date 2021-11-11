@@ -1,0 +1,6 @@
+france
+elephant
+dog
+cat
+beta
+alpha

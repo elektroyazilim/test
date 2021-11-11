@@ -11,4 +11,4 @@ print(values[-1])
 
 values = 1, 2, "kodlanir", 99.5, 78
 print(values)
-values[1] = 33
+values[1] = 35

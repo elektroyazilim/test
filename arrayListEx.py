@@ -1,3 +1,5 @@
+# arrayList example
+
 values = [1, 5, 9.9, "test"]
 print(f"{values}" + " tipi : " + str(type(values)));
 
